@@ -12,7 +12,7 @@
 <h2>  Software Development Projects:</h2>
 
 - <b>C++</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>💡 Popular YouTube Videos</h2>
