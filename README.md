@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashley-harper">Computer and Data Science</a>, <a href="https://www.linkedin.com/in/ashleyharper1/">Project Management</a>, <a href="https://www.youtube.com/Harper_Ashley">Youtube</a></h1>
+<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashley-harper">Computer and Data Science</a>, <a href="https://www.linkedin.com/in/ashleyharper1/">Project Management</a>, <a href="https://www.youtube.com/@Harper_Ashley">Youtube</a></h1>
 
 <h2>  Certifications:</h2>
 
