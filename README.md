@@ -26,7 +26,7 @@
 [<img align="left" alt="AshleyHarper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/Harper_Ashley
+[youtube]: https://www.youtube.com/@Harper_Ashley
 [linkedin]: https://linkedin.com/in/ashleyharper1
 
 
