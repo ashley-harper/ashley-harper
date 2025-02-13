@@ -1,5 +1,4 @@
-# Computer Science, Data Science, Cyber Security
-
+# Computer Science  
 
 <h2>  Certifications</h2>
 
