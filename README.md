@@ -1,18 +1,19 @@
-<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashley-harper">Computer and Data Science</a>, <a href="https://www.linkedin.com/in/ashleyharper1/">Project Management</a>, <a href="https://www.youtube.com/@Harper_Ashley">Youtube</a></h1>
+# Computer Science, Data Science, Cyber Security
+
 
 <h2>  Certifications</h2>
 
 - <b>CompTIA Network+</b>
-  - Preparing for the exam 
+   Preparing for the exam 
 - <b>CompTIA Security+</b>
-  - Preparing for the exam 
+   Preparing for the exam 
 - <b>ScrumAlliance Scrum Master</b>
-  - Preparing for the exam 
+   Preparing for the exam 
 
 <h2>  Software Development Projects</h2>
 
 - <b>C++</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+   [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>💡 Popular YouTube Videos</h2>
@@ -29,6 +30,7 @@
 [youtube]: https://www.youtube.com/@Harper_Ashley
 [linkedin]: https://linkedin.com/in/ashleyharper1
 
+<h1> <br/><a href="https://github.com/ashley-harper">My Portfolio</a>, <a href="https://www.youtube.com/@Harper_Ashley">Videos</a></h1>
 
 <!--
 **ashley-harper/ashley-harper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
